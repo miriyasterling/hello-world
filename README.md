@@ -1,5 +1,4 @@
 # hello-world
-newbie repository
 
 Hallo, hallo!
 
